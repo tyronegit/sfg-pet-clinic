@@ -44,4 +44,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/tyronegit/sfg-pet-clinic.git</developerConnection>
+    </scm>
+
 </project>
